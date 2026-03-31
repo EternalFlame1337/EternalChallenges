@@ -6,11 +6,12 @@ A collection of programming challenges to help you learn and improve your coding
 
 ## How to Use
 
-1. Pick a challenge from the list below
-2. Read the description and requirements carefully
-3. Implement your solution in your preferred language
-4. Test with the provided examples
-5. Try the bonus challenges for extra practice
+1. Browse the [Challenge Index](index.md)
+2. Pick a challenge at your skill level
+3. Read the description and requirements carefully
+4. Implement your solution in your preferred language
+5. Test with the provided examples
+6. Try the bonus challenges for extra practice
 
 **No answers are provided** - the goal is to work through the problems yourself. Use the hints if you get stuck.
 
@@ -24,33 +25,6 @@ A collection of programming challenges to help you learn and improve your coding
 | **Intermediate** | Loops, conditionals, functions, basic data structures |
 | **Advanced** | File I/O, algorithms, complex logic |
 | **Expert** | Advanced algorithms, system design, optimization |
-
----
-
-## Challenge Index
-
-### Beginner
-
-| # | Challenge | Concepts |
-|---|-----------|----------|
-| 001 | [Hello Variable](beginner/001-hello-variable.md) | Variables, String Concatenation, Output |
-
-### Intermediate
-
-| # | Challenge | Concepts |
-|---|-----------|----------|
-| 001 | [Small Wallet](intermediate/001-small-wallet.md) | Variables, Loops, Conditionals, User Input |
-| 002 | [Roman Numeral Converter](intermediate/002-roman-numeral-converter.md) | String Parsing, Validation, Number Systems |
-
-### Advanced
-
-| # | Challenge | Concepts |
-|---|-----------|----------|
-| 001 | [Caesar Cipher Tool](advanced/001-caesar-cipher-tool.md) | String Manipulation, File I/O, Encryption |
-
-### Expert
-
-*Coming soon...*
 
 ---
 

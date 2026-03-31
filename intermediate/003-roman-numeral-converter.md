@@ -71,26 +71,11 @@ Result: CDLII
 
 ## Hints
 
-<details>
-<summary>Hint 1</summary>
+> **Hint 1:** Store the Roman numeral values in a data structure (dictionary/map/object) for easy lookup.
 
-Store the Roman numeral values in a data structure (dictionary/map/object) for easy lookup.
+> **Hint 2:** For Roman to Number: Compare each character with the next one to detect subtractive pairs.
 
-</details>
-
-<details>
-<summary>Hint 2</summary>
-
-For Roman to Number: Compare each character with the next one to detect subtractive pairs.
-
-</details>
-
-<details>
-<summary>Hint 3</summary>
-
-For Number to Roman: Work from largest to smallest values. Include the subtractive pairs (CM, CD, XC, etc.) in your lookup table.
-
-</details>
+> **Hint 3:** For Number to Roman: Work from largest to smallest values. Include the subtractive pairs (CM, CD, XC, etc.) in your lookup table.
 
 ---
 
