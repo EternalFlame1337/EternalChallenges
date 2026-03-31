@@ -66,11 +66,26 @@ The last message was: Hello World
 
 ## Hints
 
-> **Hint 1:** Characters have numeric codes (ASCII/Unicode). You can convert between characters and numbers to perform the shift.
+<details>
+<summary>Hint 1</summary>
 
-> **Hint 2:** Use modulo (%) to handle wrapping around the alphabet. The alphabet has 26 letters.
+Characters have numeric codes (ASCII/Unicode). You can convert between characters and numbers to perform the shift.
 
-> **Hint 3:** Handle uppercase (A-Z) and lowercase (a-z) separately since they have different character codes.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+Use modulo (%) to handle wrapping around the alphabet. The alphabet has 26 letters.
+
+</details>
+
+<details>
+<summary>Hint 3</summary>
+
+Handle uppercase (A-Z) and lowercase (a-z) separately since they have different character codes.
+
+</details>
 
 ---
 

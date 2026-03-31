@@ -32,9 +32,19 @@ Program output here
 
 ## Hints
 
-> **Hint 1:** First hint here - general direction without giving away the answer.
+<details>
+<summary>Hint 1</summary>
 
-> **Hint 2:** Second hint here - more specific guidance if needed.
+First hint here - general direction without giving away the answer.
+
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+Second hint here - more specific guidance if needed.
+
+</details>
 
 ---
 

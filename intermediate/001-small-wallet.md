@@ -48,11 +48,26 @@ You're out of money! Thanks for shopping.
 
 ## Hints
 
-> **Hint 1:** Use a loop that continues while the user has money remaining.
+<details>
+<summary>Hint 1</summary>
 
-> **Hint 2:** Before processing a purchase, check if the user's balance is greater than or equal to the item's price.
+Use a loop that continues while the user has money remaining.
 
-> **Hint 3:** Consider storing items and prices together (like in a dictionary/map/object) for cleaner code.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+Before processing a purchase, check if the user's balance is greater than or equal to the item's price.
+
+</details>
+
+<details>
+<summary>Hint 3</summary>
+
+Consider storing items and prices together (like in a dictionary/map/object) for cleaner code.
+
+</details>
 
 ---
 

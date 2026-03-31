@@ -32,9 +32,19 @@ In this example, the variable contained `"OKIDADEEERAAD"` and the program append
 
 ## Hints
 
-> **Hint 1:** Most languages let you combine strings with a `+` operator or similar syntax.
+<details>
+<summary>Hint 1</summary>
 
-> **Hint 2:** Make sure there's a space before "Hello!" so the output looks clean.
+Most languages let you combine strings with a `+` operator or similar syntax.
+
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+Make sure there's a space before "Hello!" so the output looks clean.
+
+</details>
 
 ---
 
