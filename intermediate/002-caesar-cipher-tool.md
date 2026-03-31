@@ -68,6 +68,8 @@ The last message was: Hello World
 
 ## Hints
 
+*There are many ways to solve this challenge. These hints may not apply to your language or approach.*
+
 <details>
 <summary>Hint 1</summary>
 
