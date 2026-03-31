@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eternal Challenges
 
 A collection of programming challenges to help you learn and improve your coding skills. These challenges are **language-agnostic** - solve them in Python, JavaScript, Java, C#, Pascal, or any language you're learning.
@@ -37,3 +38,7 @@ Want to add a challenge? Use the [TEMPLATE.md](TEMPLATE.md) as a starting point.
 ## Credits
 
 Created by Eternal for teaching programming to friends and community members.
+=======
+# EternalChallenges
+A personal challenge guide for family and friends.
+>>>>>>> be21c562e6f4e3dd92a7f36eb0a77ae1b826eb73
