@@ -22,9 +22,11 @@ Clear description of what the program should do. Language-agnostic, focusing on 
 
 ## Example
 
+*Lines starting with `>` represent user input.*
+
 ```
-Example input/output showing how the program should behave
-{User-Input} - example input
+Program asks for something
+> user types their response
 Program output here
 ```
 

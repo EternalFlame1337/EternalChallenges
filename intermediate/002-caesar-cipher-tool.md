@@ -33,32 +33,34 @@ Each letter is shifted by the specified amount:
 
 ## Example
 
+*Lines starting with `>` represent user input.*
+
 **Encrypting:**
 ```
 Welcome to the Caesar Cipher Tool. Would you like to encrypt, decrypt, or view?
-{User-Input} - encrypt
+> encrypt
 What message would you like to encrypt?
-{User-Input} - Hello World
+> Hello World
 What shift value would you like to use?
-{User-Input} - 3
+> 3
 Your encrypted message is: Khoor Zruog
 ```
 
 **Decrypting:**
 ```
 Welcome to the Caesar Cipher Tool. Would you like to encrypt, decrypt, or view?
-{User-Input} - decrypt
+> decrypt
 What message would you like to decrypt?
-{User-Input} - Khoor Zruog
+> Khoor Zruog
 What shift value was used?
-{User-Input} - 3
+> 3
 Your decrypted message is: Hello World
 ```
 
 **Viewing:**
 ```
 Welcome to the Caesar Cipher Tool. Would you like to encrypt, decrypt, or view?
-{User-Input} - view
+> view
 The last message was: Hello World
 ```
 

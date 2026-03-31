@@ -45,14 +45,16 @@ Build a converter that can translate between Roman numerals and Arabic numbers (
 
 ## Example
 
+*Lines starting with `>` represent user input.*
+
 **Roman to Number:**
 ```
 Roman Numeral Converter
 1. Roman to Number
 2. Number to Roman
-{User-Input} - 1
+> 1
 Enter a Roman numeral:
-{User-Input} - LXVII
+> LXVII
 Result: 67
 ```
 
@@ -61,9 +63,9 @@ Result: 67
 Roman Numeral Converter
 1. Roman to Number
 2. Number to Roman
-{User-Input} - 2
+> 2
 Enter a number:
-{User-Input} - 452
+> 452
 Result: CDLII
 ```
 

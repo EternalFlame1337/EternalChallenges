@@ -28,17 +28,19 @@ Create a simple shopping simulator. The user starts with a set amount of money a
 
 ## Example
 
+*Lines starting with `>` represent user input.*
+
 ```
 What would you like to purchase? You have $30
-{User-Input} - Meaty Cow Leg
+> Meaty Cow Leg
 You have purchased Meaty Cow Leg.
 
 What would you like to purchase? You have $5
-{User-Input} - Juice
+> Juice
 You cannot afford Juice.
 
 What would you like to purchase? You have $5
-{User-Input} - Sugar
+> Sugar
 You have purchased Sugar.
 
 You're out of money! Thanks for shopping.
