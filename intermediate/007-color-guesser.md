@@ -1,6 +1,6 @@
 # Color Guesser
 
-**Difficulty:** Beginner
+**Difficulty:** Intermediate
 
 **Concepts:** Variables, Loops, Conditionals, Sequential Validation
 
