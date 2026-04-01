@@ -19,12 +19,12 @@ A collection of programming challenges to help you learn and improve your coding
 
 ## Difficulty Levels
 
-| Level | Description |
-|-------|-------------|
-| **Beginner** | Basic syntax, variables, simple I/O |
+| Level            | Description                                           |
+| ---------------- | ----------------------------------------------------- |
+| **Beginner**     | Basic syntax, variables, simple I/O                   |
 | **Intermediate** | Loops, conditionals, functions, basic data structures |
-| **Advanced** | File I/O, algorithms, complex logic |
-| **Expert** | Advanced algorithms, system design, optimization |
+| **Advanced**     | File I/O, algorithms, complex logic                   |
+| **Expert**       | Advanced algorithms, system design, optimization      |
 
 ---
 
@@ -33,10 +33,3 @@ A collection of programming challenges to help you learn and improve your coding
 Want to add a challenge? Use the [TEMPLATE.md](TEMPLATE.md) as a starting point.
 
 ---
-
-## Credits
-
-Created by Eternal for teaching programming to friends and community members.
-=======
-# EternalChallenges
-A personal challenge guide for family and friends.
