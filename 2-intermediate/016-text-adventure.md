@@ -1,6 +1,6 @@
 # Text Adventure
 
-**Difficulty:** Advanced
+**Difficulty:** Intermediate
 
 **Concepts:** Conditionals, Loops, State Management, Input Validation, Game Design
 

@@ -21,7 +21,6 @@ Start here if you're new to programming. These challenges build foundational ski
 | 013 | [Temperature Converter](beginner/013-temperature-converter.md) | Math, Formulas, User Input |
 | 014 | [Password Validator](beginner/014-password-validator.md) | Strings, Validation, Conditionals |
 | 015 | [Tip Calculator](beginner/015-tip-calculator.md) | Math, Percentages, Formatting |
-| 016 | [Random Quote](beginner/016-random-quote.md) | Arrays/Lists, Random Selection |
 | 017 | [PIN Checker](beginner/017-pin-checker.md) | Loops, Conditionals, Validation |
 | 018 | [Vowel Transformer](beginner/018-vowel-transformer.md) | String Iteration, Character Manipulation |
 | 019 | [Character Lister](beginner/019-character-lister.md) | Strings, Arrays/Lists, Loops |
@@ -47,6 +46,7 @@ Ready for more? These challenges combine multiple concepts and introduce new one
 | 013 | [Quiz Game](intermediate/013-quiz-game.md) | Data Structures, Scoring, Iteration |
 | 014 | [Dice Roller](intermediate/014-dice-roller.md) | Random Numbers, Input Parsing |
 | 015 | [Mad Libs](intermediate/015-mad-libs.md) | String Replacement, Templates |
+| 016 | [Text Adventure](intermediate/016-text-adventure.md) | State Management, Input Validation, Game Design |
 
 ## Advanced
 
@@ -54,7 +54,6 @@ These are significant projects that require planning and combining many skills.
 
 | # | Challenge | Concepts |
 |---|-----------|----------|
-| 001 | [Text Adventure](advanced/001-text-adventure.md) | State Management, Input Validation, Game Design |
 | 002 | [Tic Tac Toe](advanced/002-tic-tac-toe.md) | 2D Arrays, Game Logic, Win Detection |
 | 003 | [Hangman](advanced/003-hangman.md) | Strings, Game State, Reveal Logic |
 | 004 | [Connect Four](advanced/004-connect-four.md) | 2D Arrays, Gravity Simulation, Win Detection |
